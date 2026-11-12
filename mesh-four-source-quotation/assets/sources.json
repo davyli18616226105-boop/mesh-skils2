@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "sources": [
+    {"id":"source1","url":"https://bytedance.larkoffice.com/wiki/EoZdwutoDiJbTCkeGF6cfWd0nzI","observed_type":"sheet","observed_title":"分析DataAgent-标准报价单"},
+    {"id":"source2","url":"https://bytedance.larkoffice.com/wiki/SgTSw6dm2iBqhIkNanfcL7OVnJh","observed_type":"docx","observed_title":"企业知识引擎刊例价 （内部，仅面向产解）"},
+    {"id":"source3","url":"https://bytedance.larkoffice.com/wiki/MWgiwMrbVi3ZjzkCZ6Oc0srpnec","observed_type":"docx","observed_title":"iDA刊例价 2026 -销售公示版-V1【生效中】"},
+    {"id":"source4","url":"https://bytedance.larkoffice.com/wiki/UdzewgXd4iLx8Uk17aoc3n4Pnxh","observed_type":"docx","observed_title":"数据智能体-智能营销Agent 刊例价2026V1"}
+  ],
+  "layout":{"columns":["产品线","服务项","必选/可选","功能清单","单价（元）","数量","单位","折扣","折后价（元）"],"groups":["产品","实施","运维"],"title_color":"477CFB","subtotal_color":"FFF24D","sample_prices_are_rules":false},
+  "online_template_url":"https://bytedance.larkoffice.com/sheets/M6vWsW4fJhn9hctILlkcDirUnyc"
+}

@@ -1,0 +1,17 @@
+{
+  "title":"产品报价草稿",
+  "currency":"CNY",
+  "confirmed_business":false,
+  "commercial":{"tax_basis":null,"quote_date":null,"valid_until":null,"conditions_confirmed":false},
+  "source_checks":[
+    {"source_id":"source1","state":"blocked"},
+    {"source_id":"source2","state":"blocked"},
+    {"source_id":"source3","state":"blocked"},
+    {"source_id":"source4","state":"blocked"}
+  ],
+  "rows":[
+    {"id":"product1","group":"产品","product_line":null,"service":null,"selection":null,"functions":null,"status":"unknown","mode":"unit","unit_price":null,"quantity":null,"unit":null,"discount":null,"periods":null,"source_id":null,"source_ref":null,"sku_key":null,"price_current":false,"quote_authorized":false,"discount_authorized":false,"scope_confirmed":false,"evidence":{}},
+    {"id":"implementation1","group":"实施","product_line":"实施","service":null,"status":"unknown","mode":"unit","unit_price":null,"quantity":null,"unit":null,"discount":null,"periods":null,"evidence":{}},
+    {"id":"maintenance1","group":"运维","product_line":"运维","service":null,"status":"unknown","mode":"unit","unit_price":null,"quantity":null,"unit":null,"discount":null,"periods":null,"evidence":{}}
+  ]
+}
